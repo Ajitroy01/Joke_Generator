@@ -1,0 +1,11 @@
+.navbar {
+    background: linear-gradient(45deg, #007bff, #00bcd4);
+  }
+  
+  .navbar-brand {
+    color: #fff !important; /* White text color */
+  }
+  
+  .nav-link {
+    color: #fff !important; /* White text color */
+  }
