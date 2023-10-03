@@ -19,7 +19,7 @@ function JokeForm({ onGenerateJoke }) {
   return (
     <Form onSubmit={handleSubmit}>
       <Form.Group controlId="keyword">
-        <Form.Label>Keyword:</Form.Label>
+        <Form.Label>Joke On:</Form.Label>
         <Form.Control
           type="text"
           placeholder="Enter a keyword"
